@@ -1,0 +1,504 @@
+.bg-img {
+    background-image: url("../images/bg-template.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-padding {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.bg-img-2 {
+    background-image: url("../images/jimmy-nilsson-masth-eMvQoeOVTjc-unsplash.png");
+    background-repeat: no-repeat;
+
+}
+
+.bg-img3 {
+    background-image: url("../images/bg-template-2.png");
+    background-repeat: no-repeat;
+
+}
+
+.bg-img2 {
+    background-image: url("../images/henry-co-3coKbdfnAFg-unsplash (1).png");
+    background-repeat: no-repeat;
+    height: 726px;
+    background-position: center;
+}
+
+.mt150 {
+    margin-top: 150px;
+}
+
+.form-up {
+    justify-content: center;
+    position: relative;
+    bottom: 68px;
+}
+
+.mb7 {
+    margin-bottom: 7rem;
+}
+
+.shadow-custom {
+    box-shadow: 0 3px 66px rgba(0, 0, 0, 0.16);
+}
+
+.logo {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 45px !important;
+    font-weight: 900 !important;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 63px;
+    text-align: left;
+
+}
+
+.amount {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 65px;
+    font-weight: 900;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 91px;
+    text-align: left;
+    /* Text style for "300+" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+
+}
+
+.pb239 {
+    padding-bottom: 239px;
+}
+
+.b-right {
+    border-right: 1px solid rgb(185, 182, 182);
+}
+
+.reason {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 91px;
+    text-align: left;
+    /* Text style for "Satisfied" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.logo-style {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 37px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.logo-color {
+    color: #954ae2;
+    font-family: "Nunito Sans";
+    font-weight: 900;
+}
+
+.custom_button2 {
+    padding: 15px 45px;
+    border-radius: none !important;
+    border: none;
+    color: #ffffff;
+    font-family: "Red Hat Display";
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #000000;
+}
+
+.custom_button {
+    padding: 15px 45px;
+    border-radius: 50px;
+    border: none;
+    color: #ffffff;
+    font-family: "Red Hat Display";
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #000000;
+}
+
+
+.btn:first-child:hover {
+    background-color: #ffffff;
+}
+
+.nav-link {
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.active {
+    font-weight: 700;
+}
+
+h1 {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.mt192 {
+    margin-top: 192px;
+}
+
+.mrl {
+    margin-left: 152px;
+    margin-right: 75px;
+}
+
+.get {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 22px;
+    font-weight: 900;
+    font-style: italic !important;
+    letter-spacing: normal;
+    line-height: 63px;
+    text-align: left;
+    /* Text style for "Get an eas" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    padding-bottom: 22px;
+}
+
+
+p {
+    color: #707070;
+    font-family: "Nunito Sans";
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    text-align: left;
+}
+
+.form-floating>.form-select {
+    padding-top: 11px;
+    padding-bottom: 0.625rem;
+}
+
+.form-bg {
+    background-color: white;
+    padding: 28px 15px;
+    border-radius: 10px;
+}
+
+.mt242 {
+    margin-top: 242px;
+}
+
+.white-color {
+    color: #ffffff;
+}
+
+/* .form-control {
+    border: none;
+    border-right: 2px solid;
+    border-radius: 0px;
+} */
+
+.form-select {
+    border: none;
+
+    border-radius: 0px;
+}
+
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: rgb(172, 167, 167);
+    outline: 0;
+    box-shadow: none;
+}
+
+/* .form-control {
+    border-color: rgb(172, 167, 167);
+} */
+
+.form-select:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: rgb(172, 167, 167);
+    outline: 0;
+    box-shadow: none;
+}
+
+.form_custom_size {
+    margin-top: 14px;
+    height: 32px;
+}
+
+.shadow-sm {
+    box-shadow: 0 3px 56px rgba(0, 0, 0, 0.07);
+}
+
+.custome_lable {
+    color: #000000;
+    font-family: "Red Hat Display";
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.btn-check:checked+.btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check)+.btn:active {
+    background-color: #ffffff
+}
+
+.btn:first-child:hover,
+:not(.btn-check)+.btn:hover {
+    background-color: #ffffff;
+    color: #000000;
+    /* border: 1px solid black; */
+}
+
+.card1 {
+    box-shadow: 114px 75px 124px rgba(19, 95, 132, 0.13);
+    border-radius: 8px;
+    background-color: #954ae2;
+}
+
+.card2 {
+    box-shadow: 114px 75px 124px rgba(19, 95, 132, 0.13);
+    border-radius: 8px;
+    background-color: #fcf8ff;
+}
+
+.card-text {
+    color: #ffffff;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+}
+
+.card-text2 {
+    color: #5e84a1;
+}
+
+.name {
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+
+}
+
+.name1 {
+    color: #1e5068;
+}
+
+.date {
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19px;
+    text-align: left;
+}
+
+.date1 {
+    color: #5e84a1;
+}
+
+.mt560 {
+    margin-top: 560px;
+}
+
+.ml284 {
+    margin-left: 284px;
+}
+
+h2 {
+    font-family: "Nunito Sans";
+    font-size: 35px;
+    font-weight: 900;
+    font-style: italic !important;
+    letter-spacing: normal;
+    line-height: 63px;
+    text-align: left;
+    /* Text style for "Drywall" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.h5-css {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 38px;
+    font-weight: 900;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 53px;
+    text-align: left;
+    /* Text style for "Service on" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.p-css {
+    color: #000000;
+    font-family: "Red Hat Display";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 36px;
+    text-align: left;
+    /* Text style for "Lorem ipsu" */
+    font-family: "Segoe UI";
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+
+}
+
+.bg-color {
+    background-color: #f0f0f0;
+    height: 460px;
+
+}
+
+.overlay_contant {
+    position: relative;
+    top: 131px;
+}
+
+.black_color {
+    color: #4f5a62;
+}
+
+.none {
+    border: none;
+}
+
+.themecolor {
+    color: #954ae2;
+    color: #954ae2;
+    font-family: "Red Hat Display";
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.bg-color12 {
+    background-color: #34005c;
+    height: 395px;
+}
+
+.white-color {
+    color: #ffffff;
+}
+
+.auth_img {
+    margin-top: -30px;
+    width: 725px;
+    margin-left: 322px;
+}
+
+.full-black {
+    color: #000000;
+}
+
+.lh48 {
+    line-height: 48px;
+}
+
+.list-style li {
+    font-family: "Nunito Sans";
+    font-size: 13px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-align: left;
+
+
+}
+
+.list-style ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-style ul li:before {
+    content: '✓';
+    color: #000000;
+    padding-right: 12px;
+}
+
+.form-color {
+    background-color: #ffffff;
+}
+
+.flex-class {
+    display: flex;
+}
+
+.pt178 {
+    padding-top: 178px;
+}
+
+.mt106 {
+    margin-top: 106px;
+}
+
+.mt-128 {
+    margin-top: 128px;
+}
+
+.hw-button {
+    width: 226px;
+    height: 59px;
+
+}
+
+.btn-w226 {
+    width: 226px;
+}
+
+.mob-contant {
+    justify-content: center !important;
+}
+.header-button{
+    background-color: white !important; 
+    color: black !important;
+}
+.img3{
+    object-fit: cover; 
+    width: 100%;
+}

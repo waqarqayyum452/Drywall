@@ -1,0 +1,200 @@
+@media (max-width: 1399.98px) { 
+
+    .auth_img {
+        margin-top: -24px;
+        width: 710px;
+        margin-left: 20px;
+    }
+    .bg-img {
+        height: 88vh;
+    }
+
+    .mt242 {
+        margin-top: 79px;
+    }
+    .mt192 {
+        margin-top: 52px;
+    }
+    .amount {
+       
+        font-size: 47px;
+      
+    }
+    .reason {
+        font-size: 14px;
+    }
+    .ml284 {
+        margin-left: 157px;
+    }
+
+
+ }
+
+ @media (max-width: 1280px) { 
+
+    .auth_img {
+        margin-top: -24px;
+        width: 684px;
+        margin-left: 20px;
+    }
+
+ 
+
+
+ }
+ @media (max-width: 1440px) { 
+
+    .bg-img {
+        height: 99vh;
+    }
+
+    .auth_img {
+        margin-top: -28px;
+        width: 706px;
+        margin-left: 93px;
+    }
+
+ }
+
+
+ @media (max-width: 576px) { 
+
+    
+    .mt192 {
+        margin-top: 29px;
+    }
+
+    h1 {
+      
+        font-size: 35px;
+       
+    }
+.flex-class{
+    display: grid;
+}
+.bg-color {
+  
+    height: 100%;
+}
+.overlay_contant {
+  
+    top: 13px;
+}
+
+.mobile-pb{
+    padding-bottom: 12px !important;
+}
+.mobil-p{
+    padding-left: 57px;
+    padding-bottom: 14px; 
+}
+
+.pt178{
+    padding-top: 20px;
+  }
+h2{
+
+    font-size: 19PX;
+}
+.mt-mob{
+    margin-top: 0px !important;
+}
+
+.auth_img {
+    margin-top: -24px;
+    width: 207px;
+    margin-left: 93px;
+}
+
+.mt106{
+    margin-top: 15px;
+  }
+  .mt-10-mob{
+    margin-top: 10px;
+  }
+
+  .mt-128{
+    margin-top: 247px;
+  }
+  .list-style li {
+    font-family: "Nunito Sans";
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-align: left;
+}
+.hw-button{
+
+    width: 366px;
+    height: 59px;
+
+}
+.btn-w226{
+    width: 366px;
+}
+
+
+.nav-padding{
+    padding-left:0px;
+    padding-right: 0px;
+}
+.mrl {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.pb239{
+    padding-bottom: 0px;
+}
+.mt242 {
+    margin-top: 10px;
+}
+.bg-color {
+    margin-top: 255px;
+}
+
+.mobil-p {
+    padding-left: 19px;
+    padding-bottom: 50px;
+}
+.mt560 {
+    margin-top: 85px;
+}
+.ml284 {
+    margin-left: 0px;
+}
+.img3{
+ margin-top: 30px;
+}
+.mb-mobile{
+    margin-bottom: 15px;
+}
+
+
+
+  }
+
+
+
+
+  /* @media (min-width: 768px) { 
+.mob-contant{
+    justify-content: inherit;
+}
+.auth_img {
+    margin-top: 98px;
+    width: 324px;
+    margin-left: 93px;
+}
+h1 {
+    color: #000000;
+    font-family: "Red Hat Display";
+    font-size: 36px;
+    font-weight: 900;
+}
+
+
+
+  } */
+
